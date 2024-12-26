@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { SegundaPaginaComponent } from "./segunda-pagina/segunda-pagina.component";
 
 @Component({
   selector: 'app-root',
